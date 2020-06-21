@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Convenor
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Convenor\ here.\r\n\r\n\ @author\ Hallvard\ Moan\ Kristiansen\r\n\ @version\ Alpha\ 1.27\r\n
+comment1.params=name\ kompetanseBeskrivelse
+comment1.target=Convenor(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getKompetanseBeskrivelse()
+comment3.params=
+comment3.target=java.lang.String\ getRole()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=courseMembers\ announcement
+comment5.target=void\ announce(java.util.ArrayList,\ java.lang.String)
+numComments=6

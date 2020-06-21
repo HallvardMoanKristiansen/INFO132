@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Network
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Network\ here.\ Remember\ to\ write\ \r\n\ a\ good\ class\ description,\ and\ your\ self\ as\ the\ author.\r\n\r\n\ @author\ Hallvard\ Moan\ Kristiansen\r\n\ @version\ Alpha\ 1.27\r\n
+comment1.params=
+comment1.target=Network\ getNetwork()
+comment2.params=
+comment2.target=Network()
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ Network\r\n
+comment3.params=
+comment3.target=void\ loadNetwork()
+comment4.params=
+comment4.target=void\ loadNames()
+comment5.params=
+comment5.target=void\ loadConnections()
+comment6.params=personName
+comment6.target=Person\ lookupPerson(java.lang.String)
+comment6.text=\r\n\ Method\ lookupPerson\ searches\ through\ our\ collection\ of\ agents\r\n\ and\ returns\ the\ agent\ which\ has\ the\ same\ name\ as\ the\ given\ parameter.\r\n\r\n\ @param\ personName\ The\ name\ of\ the\ person\ we\ are\ searching\ for\r\n\ @return\ The\ person\ we\ searched\ for,\ or\ null\ if\ none\ is\ found\r\n
+comment7.params=
+comment7.target=void\ printNetwork()
+comment7.text=\r\n\ Method\ printNetwork\ prints\ the\ network.\ It\ prints\ the\ name\ of\ every\ person\r\n\ where\ each\ name\ is\ immediately\ preceded\ by\ the\ names\ of\ their\ connections.\r\n
+numComments=8

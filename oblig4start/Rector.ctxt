@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Rector
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Rector\ here.\r\n\r\n\ @author\ Hallvard\ Moan\ Kristiansen\r\n\ @version\ Alpha\ 1.27\r\n
+comment1.params=name\ valgL\u00F8fte
+comment1.target=Rector(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getValgL\u00F8fte()
+comment3.params=
+comment3.target=java.lang.String\ getRole()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=lecturer\ commendation
+comment5.target=void\ commend(Convenor,\ java.lang.String)
+numComments=6

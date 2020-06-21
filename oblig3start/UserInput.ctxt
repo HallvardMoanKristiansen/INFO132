@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=UserInput
+comment0.text=\r\n\ Client\ functions\ as\ an\ interface\ between\ a\ user\ and\ the\ network.\ The\ \r\n\ user\ interacts\ with\ the\ client\ by\ typing\ commands.\ The\ user\ can\ send\ messages\ \r\n\ to\ other\ users.\r\n\ \r\n\ @author\ \ \ \ \ Hallvard\ Moan\ Kristiansen\r\n\ @version\ \ \ \ Alpha\ 1.05\r\n
+comment1.params=
+comment1.target=UserInput()
+comment2.params=
+comment2.target=java.lang.String\ getInput()
+comment3.params=prompt
+comment3.target=java.lang.String\ getInput(java.lang.String)
+comment4.params=prompt
+comment4.target=java.lang.String\ getMultilineInput(java.lang.String)
+numComments=5

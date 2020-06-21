@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TestMessageDatabase
+comment0.text=\r\n\ Test\ class\ MessageDataBaseTest\r\n\ @author\ your\ boi\ Hallvard\r\n\ @Version\ Alpha\ 1.10.2\r\n
+comment1.params=
+comment1.target=void\ testReset()
+comment2.params=
+comment2.target=void\ testIncrement()
+numComments=3

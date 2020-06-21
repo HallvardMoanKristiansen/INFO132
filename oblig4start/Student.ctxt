@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Student\ here.\r\n\r\n\ @author\ Hallvard\ Moan\ Kristiansen\r\n\ @version\ Alpha\ 1.27\r\n
+comment1.params=name\ username
+comment1.target=Student(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getRole()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=java.lang.String\ getUsername()
+numComments=5
